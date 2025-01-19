@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Priyansh-Shukla14
-- 👀 I’m interested in web Development , java , c prgramming 
+- 👀 I’m interested in web Development , java , c++ prgramming 
 - 🌱 I’m currently learning java and web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 👇
