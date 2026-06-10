@@ -5,16 +5,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Priyansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+%26+CTF+Enthusiast+%F0%9F%94%90;IoT+%26+Robotics+Builder+%F0%9F%A4%96;Sophomore+%40+RV+College+of+Engineering)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://priyansh-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/priyansh-shukla14" target="_blank">
+  <a href="https://www.linkedin.com/in/priyansh-shukla-642b66286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:priyanshshukla1404@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Priyansh-Shukla14&style=for-the-badge&color=3ECF8E&label=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -27,7 +23,7 @@
 const priyansh = {
   college:     "RV College of Engineering, Bangalore",
   year:        "Sophomore (2nd Year)",
-  focus:       ["Full Stack Dev", "Cybersecurity", "IoT", "Robotics"],
+  focus:       ["Full Stack Dev",  "IoT", "Robotics"],
   currentlyBuilding: "AEGIS — AI-Powered Cyber Safety Platform",
   achievements: ["🏆 CTF Winner - CyberPeace Corps", "🎯 Top 10 - Hackemon CTF @ RVCE"],
   funFact:     "I turn coffee into code and sensors into solutions ☕🔧"
