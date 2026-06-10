@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:6366f1&height=200&section=header&text=Priyansh%20Shukla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:6366f1&height=200&section=header&text=Priyansh%20Shukla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Priyansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;IoT+%26+Robotics+Builder+%F0%9F%A4%96;CTF+Player+%F0%9F%8E%AF;Sophomore+%40+RV+College+of+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Priyansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Sophomore+%40+RV+College+of+Engineering)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/priyansh-shukla-642b66286/" target="_blank">
@@ -20,7 +20,7 @@
 const priyansh = {
   college:     "RV College of Engineering, Bangalore",
   year:        "Sophomore (2nd Year)",
-  focus:       ["Full Stack Dev",  "IoT", "Robotics"],
+  focus:       ["Full Stack Dev",  "IoT"],
   currentlyBuilding: "AEGIS — AI-Powered Cyber Safety Platform",
   achievements: ["🏆 CTF Winner - CyberPeace Corps", "🎯 Top 10 - Hackemon CTF @ RVCE"],
   funFact:     "I turn coffee into code and sensors into solutions ☕🔧"
