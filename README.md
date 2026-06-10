@@ -73,20 +73,9 @@ const priyansh = {
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Priyansh-Shukla14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3ECF8E&icon_color=6366f1&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyansh-Shukla14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3ECF8E&text_color=ffffff" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyansh-Shukla14&theme=tokyonight&hide_border=true&background=0d1117&ring=3ECF8E&fire=6366f1&currStreakLabel=3ECF8E" />
-
-</div>
 
 ---
+
 
 ## 🏆 Achievements
 
