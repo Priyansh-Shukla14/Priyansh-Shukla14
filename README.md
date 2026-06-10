@@ -21,7 +21,7 @@ const priyansh = {
   college:     "RV College of Engineering, Bangalore",
   year:        "Sophomore (2nd Year)",
   focus:       ["Full Stack Dev",  "IoT"],
-  currentlyBuilding: "AEGIS — AI-Powered Cyber Safety Platform",
+
   achievements: ["🏆 CTF Winner - CyberPeace Corps", "🎯 Top 10 - Hackemon CTF @ RVCE"],
   funFact:     "I turn coffee into code and sensors into solutions ☕🔧"
 };
