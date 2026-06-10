@@ -22,7 +22,6 @@ const priyansh = {
   year:        "Sophomore (2nd Year)",
   focus:       ["Full Stack Dev",  "IoT"],
   achievements: ["🏆 CTF Winner - CyberPeace Corps", "🎯 Top 10 - Hackemon CTF @ RVCE"],
-  funFact:     "I turn coffee into code and sensors into solutions ☕🔧"
 };
 ```
 
