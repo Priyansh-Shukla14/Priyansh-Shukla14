@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:6366f1&height=200&section=header&text=Priyansh%20Shukla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20IoT%20Builder&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:6366f1&height=200&section=header&text=Priyansh%20Shukla&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IoT%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Priyansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+%26+CTF+Enthusiast+%F0%9F%94%90;IoT+%26+Robotics+Builder+%F0%9F%A4%96;Sophomore+%40+RV+College+of+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Priyansh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;IoT+%26+Robotics+Builder+%F0%9F%A4%96;CTF+Player+%F0%9F%8E%AF;Sophomore+%40+RV+College+of+Engineering)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/priyansh-shukla-642b66286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:priyanshshukla1404@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
