@@ -85,7 +85,7 @@ const priyansh = {
 ---
 
 ## 🤝 Experience
-
+- **Upcoming NextAI Product Developer Intern At Igniter**
 - **Organiser** @ Rotaract Club RVCE — Project Pustak · FastTrek 4.0 · Secret Santa · Uptown Junk
 - **Member** @ Project Jatayu RVCE — Autonomous Aerial Vehicle Development
 
