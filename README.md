@@ -65,7 +65,6 @@ const priyansh = {
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🛡️ AEGIS](https://github.com/Priyansh-Shukla14/AEGIS-Cyber-Defense) | AI-powered cyber safety platform with real-time threat detection, evidence vault & SMS SOS alerts | Next.js · Supabase · Gemini AI · Twilio |
 | [🪖 Smart Helmet](https://github.com/Priyansh-Shukla14/Smart-Helmet-For-Riders-) | IoT helmet that detects accidents and auto-alerts emergency contacts with GPS location | Arduino · Twilio · Google Maps API |
 | [🌿 Anti-Poaching Tripwire](https://github.com/Priyansh-Shukla14/Anti-Poaching-System) | ESP32-based perimeter system that detects suspicious sounds to protect wildlife | ESP32 · Audio Processing · Python |
 | [📚 Automated Book Sorting](https://github.com/Priyansh-Shukla14/Automated-Book-Sorting-System-Using-Robotic-Arm-Integration) | Rover-mounted robotic arm that autonomously sorts books using Arduino | Arduino · SolidWorks · Robotics |
@@ -86,6 +85,8 @@ const priyansh = {
 
 ## 🤝 Experience
 
+- **NEXT AI Product Developer (Intern)** @ Igniterapp — Aug 2026 – Present
+- **Secretary** @ Rotaract Club RVCE — July 2026 – Present
 - **Organiser** @ Rotaract Club RVCE — Project Pustak · FastTrek 4.0 · Secret Santa · Uptown Junk
 - **Member** @ Project Jatayu RVCE — Autonomous Aerial Vehicle Development
 
