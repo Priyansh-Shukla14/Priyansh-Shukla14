@@ -20,7 +20,7 @@
 const priyansh = {
   college:     "RV College of Engineering, Bangalore",
   year:        "Sophomore (2nd Year)",
-  focus:       ["Full Stack Dev",  "IoT"],
+  focus:       ["Full Stack Dev",  "DSA"],
   achievements: ["🏆 CTF Winner - CyberPeace Corps", "🎯 Top 10 - Hackemon CTF @ RVCE"],
 };
 ```
@@ -86,7 +86,7 @@ const priyansh = {
 ## 🤝 Experience
 <<<<<<< HEAD
 
-- **NEXT AI Product Developer (Intern)** @ Igniterapp — Aug 2026 – Present
+- **NEXT AI Product Developer (Intern)** @ Igniterapp — July 2026 – Present
 - **Secretary** @ Rotaract Club RVCE — July 2026 – Present
 =======
 - **Upcoming NextAI Product Developer Intern At Igniter**
