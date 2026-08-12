@@ -84,7 +84,6 @@ const priyansh = {
 ---
 
 ## 🤝 Experience
-<<<<<<< HEAD
 
 - **NEXT AI Product Developer (Intern)** @ Igniterapp — July 2026 – Present
 - **Secretary** @ Rotaract Club RVCE — July 2026 – Present
