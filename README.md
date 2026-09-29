@@ -19,7 +19,7 @@
 ```js
 const priyansh = {
   college:     "RV College of Engineering, Bangalore",
-  year:        "Sophomore (2nd Year)",
+  year:        "Junior (3rd Year)",
   focus:       ["Full Stack Dev",  "DSA"],
   achievements: ["🏆 CTF Winner - CyberPeace Corps", "🎯 Top 10 - Hackemon CTF @ RVCE"],
 };
