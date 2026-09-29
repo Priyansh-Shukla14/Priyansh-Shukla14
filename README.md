@@ -87,8 +87,6 @@ const priyansh = {
 
 - **NEXT AI Product Developer (Intern)** @ Igniterapp — July 2026 – Present
 - **Secretary** @ Rotaract Club RVCE — July 2026 – Present
-
->>>>>>> c57bb4f2c7b5a294d59d540570d8583dada1fe1f
 - **Organiser** @ Rotaract Club RVCE — Project Pustak · FastTrek 4.0 · Secret Santa · Uptown Junk
 - **Member** @ Project Jatayu RVCE — Autonomous Aerial Vehicle Development
 
